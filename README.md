@@ -10,6 +10,8 @@ TOEIC 830点
 ### 戦歴
 
 [第5回自動運転AIチャレンジ チャレンジ部門3位](https://www.jsae.or.jp/jaaic/result.php)  
+[MakerFaireTokyo2023出展](https://makezine.jp/event/makers-mft2023/m0169/)  
+[MakerFaireKyoto2023出展](https://makezine.jp/event/makers-mfk2023/m0050/)  
 
 
 <!--

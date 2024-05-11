@@ -12,9 +12,10 @@ TOEIC 830点
 
 [第5回自動運転AIチャレンジ チャレンジ部門3位](https://www.jsae.or.jp/jaaic/result.php)  
 [第6回自動運転AIチャレンジ 決勝進出(敗退)](https://www.jsae.or.jp/jaaic/2023_result.php)  
+[自動運転AIチャレンジ2023（シミュレーション）コミュニティ貢献賞・広報賞](https://www.jsae.or.jp/jaaic/2023ver/simulation_result/)  
 [MakerFaireTokyo2023出展](https://makezine.jp/event/makers-mft2023/m0169/)  
 [MakerFaireKyoto2023出展](https://makezine.jp/event/makers-mfk2023/m0050/)  
-
+[MakerFaireKyoto2024出展](https://makezine.jp/event/makers-mfk2024/m0073/)  
 
 <!--
 **seigot/seigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

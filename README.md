@@ -7,6 +7,8 @@ AWSソリューションアーキテクトアソシエイト(2023/5)
 AWSSysOpsアドミニストレータアソシエイト(2024/1)  
 TOEIC 830点  
 情報処理安全確保支援士合格  
+[画像処理エンジニア検定 エキスパート](https://www.cgarts.or.jp/v1/kentei/about/img_engineer/second.html)  
+[CGエンジニア検定　エキスパート](https://www.cgarts.or.jp/v1/kentei/about/cg_engineer/index.html)  
 
 ### 戦歴
 

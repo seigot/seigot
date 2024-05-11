@@ -18,6 +18,7 @@ TOEIC 830点
 [MakerFaireTokyo2023出展](https://makezine.jp/event/makers-mft2023/m0169/)  
 [MakerFaireKyoto2023出展](https://makezine.jp/event/makers-mfk2023/m0050/)  
 [MakerFaireKyoto2024出展](https://makezine.jp/event/makers-mfk2024/m0073/)  
+２０１２年第１期ＮＰＯ実践マネジメント講座 修了
 
 <!--
 **seigot/seigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -22,6 +22,13 @@ TOEIC 830点
 [M5stack Japan Tour 2024 Spring Osaka出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  
 ２０１２年第１期ＮＰＯ実践マネジメント講座 修了
 
+### コミュニティ運営
+
+[2022.pycon.jp](https://2022.pycon.jp/en/staff/)  
+[2023-apac.pycon.jp](https://2023-apac.pycon.jp/staff)  
+[M5stack Japan Tour 2023 Spring Osaka Staff](https://m5stack2023osaka.peatix.com/?lang=ja)  
+[M5stack Japan Tour 2024 Spring Osaka Staff](https://m5stack2024springosaka.peatix.com/?lang=ja)  
+
 ### Blog
 
 [https://note.com/seigot](https://note.com/seigot)  

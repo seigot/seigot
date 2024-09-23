@@ -18,6 +18,7 @@ TOEIC 830点
 [MakerFaireTokyo2023出展](https://makezine.jp/event/makers-mft2023/m0169/)  
 [MakerFaireKyoto2023出展](https://makezine.jp/event/makers-mfk2023/m0050/)  
 [MakerFaireKyoto2024出展](https://makezine.jp/event/makers-mfk2024/m0073/)  
+[MakerFaireBayArea2024出展](https://makerfaire.com/maker/entry/75927/)  
 [NT京都２０２４ 出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
 [M5stack Japan Tour 2024 Spring Osaka出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  
 ２０１２年第１期ＮＰＯ実践マネジメント講座 修了
@@ -26,6 +27,7 @@ TOEIC 830点
 
 [2022.pycon.jp](https://2022.pycon.jp/en/staff/)  
 [2023-apac.pycon.jp](https://2023-apac.pycon.jp/staff)  
+[2024-pybay-volunteer](https://pybay.org)  
 [M5stack Japan Tour 2023 Spring Osaka Staff](https://m5stack2023osaka.peatix.com/?lang=ja)  
 [M5stack Japan Tour 2024 Spring Osaka Staff](https://m5stack2024springosaka.peatix.com/?lang=ja)  
 [challenge_club](https://challenge-club.connpass.com/)  

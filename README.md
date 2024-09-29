@@ -17,6 +17,7 @@ TOEIC 830点
 [自動運転AIチャレンジ2023（シミュレーション）コミュニティ貢献賞・広報賞](https://www.jsae.or.jp/jaaic/2023ver/simulation_result/)  
 [MakerFaireTokyo2023出展](https://makezine.jp/event/makers-mft2023/m0169/)  
 [MakerFaireKyoto2023出展](https://makezine.jp/event/makers-mfk2023/m0050/)  
+[Kariya Micro Maker Faire 2024出展](https://karaage.hatenadiary.jp/entry/2024/02/26/073000)  
 [MakerFaireKyoto2024出展](https://makezine.jp/event/makers-mfk2024/m0073/)  
 [MakerFaireBayArea2024出展](https://makerfaire.com/maker/entry/75927/)  
 [NT京都２０２４ 出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  

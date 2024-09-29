@@ -31,6 +31,7 @@ TOEIC 830点
 [2024-pybay.org-volunteer](https://pybay.org)  
 [M5stack Japan Tour 2023 Spring Osaka Staff](https://m5stack2023osaka.peatix.com/?lang=ja)  
 [M5stack Japan Tour 2024 Spring Osaka Staff](https://m5stack2024springosaka.peatix.com/?lang=ja)  
+[つくろか！３ Staff](https://tsukuroka3.notion.site/3-WEB-26e2a0c5174641bc8382d63a6dd70ab0)  
 [challenge_club](https://challenge-club.connpass.com/)  
 
 ### Blog

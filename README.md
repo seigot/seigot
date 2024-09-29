@@ -25,8 +25,8 @@ TOEIC 830点
 
 ### コミュニティ運営
 
-[2022.pycon.jp](https://2022.pycon.jp/en/staff/)  
-[2023-apac.pycon.jp](https://2023-apac.pycon.jp/staff)  
+[2022.pycon.jp-volunteer](https://2022.pycon.jp/en/staff/)  
+[2023-apac.py-volunteercon.jp](https://2023-apac.pycon.jp/staff)  
 [2024-pybay-volunteer](https://pybay.org)  
 [M5stack Japan Tour 2023 Spring Osaka Staff](https://m5stack2023osaka.peatix.com/?lang=ja)  
 [M5stack Japan Tour 2024 Spring Osaka Staff](https://m5stack2024springosaka.peatix.com/?lang=ja)  

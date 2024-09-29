@@ -39,6 +39,14 @@ TOEIC 830点
 [https://note.com/seigot](https://note.com/seigot)  
 [https://qiita.com/seigot](https://qiita.com/seigot)  
 
+### presentation  
+[effective-ci-system-design-for-large-scale-automotive-software-development-project](https://aglamm2019.sched.com/event/VHQ7/effective-ci-system-design-for-large-scale-automotive-software-development-project-takada-seigo-panasonic)  
+### patent  
+[自動運転システム/P7065394](https://patentimages.storage.googleapis.com/f0/3a/c5/cafb5a97bedf1f/JP7065394B2.pdf)  
+[視線入力装置/特開2022-072453](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202203016217050199)  
+[Drive recorder, data recording system, data recording method, and program/JP2021117853A](https://patents.google.com/patent/JP2021117853A/en)  
+[Drive recorder and data recording method/US20210232340A1](https://patents.google.com/patent/US20210232340A1/en)  
+[経路探索方法、ナビゲーション方法、ナビゲーションシステム、移動体、プログラム、及び経路探索用学習方法/JP2020118652A](https://patents.google.com/patent/JP2020118652A/ja)  
 
 <!--
 **seigot/seigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

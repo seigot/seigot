@@ -33,13 +33,13 @@ TOEIC 830点
 [M5stack Japan Tour 2024 Spring Osaka Staff](https://m5stack2024springosaka.peatix.com/?lang=ja)  
 [つくろか！３ 2024/10/26-27@Osaka-Co-Corganizer](https://tsukuroka3.notion.site/3-WEB-26e2a0c5174641bc8382d63a6dd70ab0)  
 [challenge_club](https://challenge-club.connpass.com/)  
-[Qiita adventcavendar2022完走賞](https://blog.qiita.com/adventcalendar-2022-qiitapresents-winners/)  
-[Qiita adventcavendar2023完走賞](https://blog.qiita.com/adventcalendar-2023-qiitapresents-winners/)  
 
 ### Blog
 
 [https://note.com/seigot](https://note.com/seigot)  
 [https://qiita.com/seigot](https://qiita.com/seigot)  
+[Qiita adventcavendar2022完走賞](https://blog.qiita.com/adventcalendar-2022-qiitapresents-winners/)  
+[Qiita adventcavendar2023完走賞](https://blog.qiita.com/adventcalendar-2023-qiitapresents-winners/)  
 
 ### presentation  
 [effective-ci-system-design-for-large-scale-automotive-software-development-project](https://aglamm2019.sched.com/event/VHQ7/effective-ci-system-design-for-large-scale-automotive-software-development-project-takada-seigo-panasonic)  

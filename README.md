@@ -44,7 +44,6 @@ TOEIC 830点
 [とにほめLT会](https://tonihome.connpass.com)  
 
 ## Press  
-
 [パナソニックオートモーティブシステムズが「自動運転AIチャレンジ2022」で３位入賞](https://news.panasonic.com/jp/topics/205053)  
 [パナソニック オートモーティブシステムズが「自動運転AIチャレンジ2024」のアドバンストクラスで最優秀賞](https://news.panasonic.com/jp/topics/206051)  
 [他流試合で成長を実感　社外技術コンテストに挑戦](http://automotive.panasonic.com/newsroom/jaaic)  

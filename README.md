@@ -43,7 +43,7 @@ TOEIC 830点
 [Qiita adventcavendar2023完走賞](https://blog.qiita.com/adventcalendar-2023-qiitapresents-winners/)  
 [とにほめLT会](https://tonihome.connpass.com)  
 
-## PR  
+## Press  
 
 [パナソニックオートモーティブシステムズが「自動運転AIチャレンジ2022」で３位入賞](https://news.panasonic.com/jp/topics/205053)  
 [パナソニック オートモーティブシステムズが「自動運転AIチャレンジ2024」のアドバンストクラスで最優秀賞](https://news.panasonic.com/jp/topics/206051)  

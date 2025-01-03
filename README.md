@@ -46,7 +46,8 @@ TOEIC 830点
 ### presentation  
 [effective-ci-system-design-for-large-scale-automotive-software-development-project](https://aglamm2019.sched.com/event/VHQ7/effective-ci-system-design-for-large-scale-automotive-software-development-project-takada-seigo-panasonic)  
 ### patent  
-[自動運転システム/P7065394](https://patentimages.storage.googleapis.com/f0/3a/c5/cafb5a97bedf1f/JP7065394B2.pdf)  
+[自動運転システム、自動運転システムの通知方法、プログラム、及び移動体/J-GLOBAL ID：201903001267719631](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=201903001267719631&rel=1#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22自動運転%E3%80%80高田征吾%22%7D)  
+[自動運転システム及び自動運転切替方法/J-GLOBAL ID：202103002742273192](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202103002742273192&rel=1#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22自動運転%E3%80%80高田征吾%22%7D)  
 [視線入力装置/特開2022-072453](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202203016217050199)  
 [Drive recorder, data recording system, data recording method, and program/JP2021117853A](https://patents.google.com/patent/JP2021117853A/en)  
 [Drive recorder and data recording method/US20210232340A1](https://patents.google.com/patent/US20210232340A1/en)  

@@ -51,6 +51,7 @@ TOEIC 830点
 
 ### presentation  
 [effective-ci-system-design-for-large-scale-automotive-software-development-project](https://aglamm2019.sched.com/event/VHQ7/effective-ci-system-design-for-large-scale-automotive-software-development-project-takada-seigo-panasonic)  
+
 ### patent  
 [自動運転システム、自動運転システムの通知方法、プログラム、及び移動体/J-GLOBAL ID：201903001267719631](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=201903001267719631&rel=1#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22自動運転%E3%80%80高田征吾%22%7D)  
 [自動運転システム及び自動運転切替方法/J-GLOBAL ID：202103002742273192](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202103002742273192&rel=1#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22自動運転%E3%80%80高田征吾%22%7D)  
@@ -58,6 +59,9 @@ TOEIC 830点
 [Drive recorder, data recording system, data recording method, and program/JP2021117853A](https://patents.google.com/patent/JP2021117853A/en)  
 [Drive recorder and data recording method/US20210232340A1](https://patents.google.com/patent/US20210232340A1/en)  
 [経路探索方法、ナビゲーション方法、ナビゲーションシステム、移動体、プログラム、及び経路探索用学習方法/JP2020118652A](https://patents.google.com/patent/JP2020118652A/ja)  
+
+### Other
+[3次テーラー展開と曲率補正を用いたサブピクセルエッジ抽出](https://www.jstage.jst.go.jp/browse/jjspe/77/8/_contents/-char/ja)  
 
 <!--
 **seigot/seigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

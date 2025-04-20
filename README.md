@@ -22,19 +22,19 @@ TOEIC 830点
 [MakerFaireKyoto2024出展](https://makezine.jp/event/makers-mfk2024/m0073/)  
 [MakerFaireBayArea2024出展](https://makerfaire.com/maker/entry/75927/)  
 [MakerFaireLosAngels2025出展](https://losangeles.makerfaire.com/maker/entry/2098/)  
-
 [NT京都２０２４ 出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
 [M5stack Japan Tour 2024 Spring Osaka出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  
 ２０１２年第１期ＮＰＯ実践マネジメント講座 修了  
 
-### コミュニティ運営
+### コミュニティ運営／Volunteer
 
-[2022.pycon.jp-volunteer](https://2022.pycon.jp/en/staff/)  
-[2023-apac.pycon.jp-volunteer](https://2023-apac.pycon.jp/staff)  
-[2024-pybay.org-volunteer](https://pybay.org)  
-[M5stack Japan Tour 2023 Spring Osaka Staff](https://m5stack2023osaka.peatix.com/?lang=ja)  
-[M5stack Japan Tour 2024 Spring Osaka Staff](https://m5stack2024springosaka.peatix.com/?lang=ja)  
-[つくろか！３ 2024/10/26-27@Osaka-Co-Corganizer](https://tsukuroka3.notion.site/3-WEB-26e2a0c5174641bc8382d63a6dd70ab0)  
+[2022.pycon.jp-Volunteer](https://2022.pycon.jp/en/staff/)  
+[2023-apac.pycon.jp-Volunteer](https://2023-apac.pycon.jp/staff)  
+[2023-OpenSourceConferenceKyoto-exhibiter-Volunteer](https://event.ospn.jp/osc2023-kyoto/exhibit)  
+[2024-pybay.org-Volunteer](https://pybay.org)  
+[M5stack Japan Tour 2023 Spring Osaka Staff-Volunteer](https://m5stack2023osaka.peatix.com/?lang=ja)  
+[M5stack Japan Tour 2024 Spring Osaka Staff-Volunteer](https://m5stack2024springosaka.peatix.com/?lang=ja)  
+[つくろか！３ 2024/10/26-27@Osaka-Co-Corganizer/Volunteer](https://tsukuroka3.notion.site/3-WEB-26e2a0c5174641bc8382d63a6dd70ab0)  
 [challenge_club](https://challenge-club.connpass.com/)  
 [SF BayArea Japan Maker Community](https://www.eventbrite.com/o/sf-bay-area-japan-maker-community-86198715633)  
 

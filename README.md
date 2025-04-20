@@ -51,7 +51,7 @@ TOEIC 830点
 [他流試合で成長を実感　社外技術コンテストに挑戦](http://automotive.panasonic.com/newsroom/jaaic)  
 
 ### presentation  
-[effective-ci-system-design-for-large-scale-automotive-software-development-project](https://aglamm2019.sched.com/event/VHQ7/effective-ci-system-design-for-large-scale-automotive-software-development-project-takada-seigo-panasonic)  
+[Effective CI System Design for Large Scale Automotive Software Development Project](https://aglamm2019.sched.com/event/VHQ7/effective-ci-system-design-for-large-scale-automotive-software-development-project-takada-seigo-panasonic)  
 
 ### patent  
 [自動運転システム、自動運転システムの通知方法、プログラム、及び移動体/J-GLOBAL ID：201903001267719631](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=201903001267719631&rel=1#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22自動運転%E3%80%80高田征吾%22%7D)  

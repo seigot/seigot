@@ -10,7 +10,7 @@ TOEIC 830点
 [画像処理エンジニア検定 エキスパート](https://www.cgarts.or.jp/v1/kentei/about/img_engineer/second.html)  
 [CGエンジニア検定　エキスパート](https://www.cgarts.or.jp/v1/kentei/about/cg_engineer/index.html)  
 
-### 戦歴
+### 競技会、出展、他
 
 [第5回自動運転AIチャレンジ チャレンジ部門3位](https://www.jsae.or.jp/jaaic/result.php)  
 [第6回自動運転AIチャレンジ 決勝進出](https://www.jsae.or.jp/jaaic/2023_result.php)  
@@ -22,6 +22,8 @@ TOEIC 830点
 [MakerFaireKyoto2024出展](https://makezine.jp/event/makers-mfk2024/m0073/)  
 [MakerFaireBayArea2024出展](https://makerfaire.com/maker/entry/75927/)  
 [MakerFaireLosAngels2025出展](https://losangeles.makerfaire.com/maker/entry/2098/)  
+[MakerFaire School Piedmont2025出展](https://www.piedmontmakers.org/school-maker-faire)  
+[OpanSauce2025出展](https://opensauce.com)  
 [NT京都２０２４ 出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
 [M5stack Japan Tour 2024 Spring Osaka出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  
 ２０１２年第１期ＮＰＯ実践マネジメント講座 修了  

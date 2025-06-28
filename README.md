@@ -2,8 +2,8 @@
 
 ### 資格
 
-[IPA:エンベデッドシステムスペシャリスト](https://www.ipa.go.jp/shiken/kubun/es.html) (2018/6)
-[IPA:情報処理安全確保支援士合格](https://www.ipa.go.jp/shiken/kubun/sc.html) (2021/12)
+[IPA:エンベデッドシステムスペシャリスト](https://www.ipa.go.jp/shiken/kubun/es.html) (2018/6)  
+[IPA:情報処理安全確保支援士合格](https://www.ipa.go.jp/shiken/kubun/sc.html) (2021/12)  
 [AWS:ソリューションアーキテクトアソシエイト](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/) (2023/5)  
 [AWS:SysOpsアドミニストレータアソシエイト](https://aws.amazon.com/jp/certification/certified-sysops-admin-associate/) (2024/1)  
 TOEIC 830点  

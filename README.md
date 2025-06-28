@@ -2,20 +2,24 @@
 
 ### 資格
 
-[エンベデッドシステムスペシャリスト](https://www.ipa.go.jp/shiken/kubun/es.html)  
-AWSソリューションアーキテクトアソシエイト(2023/5)  
-AWSSysOpsアドミニストレータアソシエイト(2024/1)  
+[IPA:エンベデッドシステムスペシャリスト](https://www.ipa.go.jp/shiken/kubun/es.html) (2018/6)
+[IPA:情報処理安全確保支援士合格](https://www.ipa.go.jp/shiken/kubun/sc.html) (2021/12)
+[AWS:ソリューションアーキテクトアソシエイト](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/) (2023/5)  
+[AWS:SysOpsアドミニストレータアソシエイト](https://aws.amazon.com/jp/certification/certified-sysops-admin-associate/) (2024/1)  
 TOEIC 830点  
-[情報処理安全確保支援士合格](https://www.ipa.go.jp/shiken/kubun/sc.html)  
 [画像処理エンジニア検定 エキスパート](https://www.cgarts.or.jp/v1/kentei/about/img_engineer/second.html)  
 [CGエンジニア検定　エキスパート](https://www.cgarts.or.jp/v1/kentei/about/cg_engineer/index.html)  
+[NPO実践マネジメント講座 修了(2012)](https://center.public.or.jp/products/lecture02.html)
 
-### 競技会、出展、他
+### 競技会、他
 
-[第5回自動運転AIチャレンジ チャレンジ部門3位](https://www.jsae.or.jp/jaaic/result.php)  
-[第6回自動運転AIチャレンジ 決勝進出](https://www.jsae.or.jp/jaaic/2023_result.php)  
-[自動運転AIチャレンジ2023（シミュレーション）コミュニティ貢献賞・広報賞](https://www.jsae.or.jp/jaaic/2023ver/simulation_result/)  
-[Japan Automotive AI Challenge 2024 advanced Category 1st prize](https://www.jsae.or.jp/press/detail/2452/)  
+[第5回自動運転AIチャレンジ チャレンジ部門3位 (Mar.2023)](https://www.jsae.or.jp/jaaic/result.php)  
+[第6回自動運転AIチャレンジ 決勝進出 (Nov.2023)](https://www.jsae.or.jp/jaaic/2023_result.php)  
+[自動運転AIチャレンジ2023（シミュレーション）コミュニティ貢献賞・広報賞 (Mar.2024)](https://www.jsae.or.jp/jaaic/2023ver/simulation_result/)  
+[Japan Automotive AI Challenge 2024 advanced Category 1st prize (Dec.2024)](https://www.jsae.or.jp/press/detail/2452/)  
+
+### Maker Event/Meetup
+
 [MakerFaireTokyo2023出展](https://makezine.jp/event/makers-mft2023/m0169/)  
 [MakerFaireKyoto2023出展](https://makezine.jp/event/makers-mfk2023/m0050/)  
 [Kariya Micro Maker Faire 2024出展](https://karaage.hatenadiary.jp/entry/2024/02/26/073000)  
@@ -24,9 +28,8 @@ TOEIC 830点
 [MakerFaireLosAngels2025出展](https://losangeles.makerfaire.com/maker/entry/2098/)  
 [MakerFaire School Piedmont2025出展](https://www.piedmontmakers.org/school-maker-faire)  
 [OpanSauce2025出展](https://opensauce.com)  
-[NT京都２０２４ 出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
+[NT京都2024 出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
 [M5stack Japan Tour 2024 Spring Osaka出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  
-２０１２年第１期ＮＰＯ実践マネジメント講座 修了  
 
 ### コミュニティ運営／Volunteer
 

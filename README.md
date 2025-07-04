@@ -32,6 +32,11 @@ TOEIC 830点
 [NT京都2024 出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
 [M5stack Japan Tour 2024 Spring Osaka出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  
 
+Exhibition link  
+[MakerFaireBayArea2024 https://makerfaire.com/maker/entry/75927/](https://makerfaire.com/maker/entry/75927/)  
+[MakerFaireLosAngels2025 https://losangeles.makerfaire.com/maker/entry/2098/](https://losangeles.makerfaire.com/maker/entry/2098/)  
+[OpenSauce2025 https://opensauce.com/exhibits/](https://opensauce.com/exhibits/)  
+
 ### コミュニティ運営／Volunteer
 
 [2022.pycon.jp-Volunteer](https://2022.pycon.jp/en/staff/)  

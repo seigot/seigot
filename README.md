@@ -10,6 +10,7 @@ TOEIC 830点
 [画像処理エンジニア検定 エキスパート](https://www.cgarts.or.jp/v1/kentei/about/img_engineer/second.html)  
 [CGエンジニア検定　エキスパート](https://www.cgarts.or.jp/v1/kentei/about/cg_engineer/index.html)  
 [NPO実践マネジメント講座 修了(2012)](https://center.public.or.jp/products/lecture02.html)  
+[ほめ達！検定 3級](https://www.hometatsu.jp/test/index.html)    
 [The UC San Diego Rady School of Management’s MicroMBA(2025/7-8)](https://rady.ucsd.edu/programs/executive-education/micro-mba.html)
 
 ### 競技会、他

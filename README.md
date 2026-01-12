@@ -79,6 +79,15 @@ Exhibition link
 ### Other
 [3次テーラー展開と曲率補正を用いたサブピクセルエッジ抽出](https://www.jstage.jst.go.jp/browse/jjspe/77/8/_contents/-char/ja)  
 
+### Course
+
+[DeepLearning.AI, ACP: Agent Communication Protocol,2026/1](https://learn.deeplearning.ai/accomplishments/db663bf0-9682-40fd-bdfb-fd8bfaec93e1)  
+[DeepLearning.AI, MCP: Build Rich-Context AI Apps with Anthropic,2026/1](https://learn.deeplearning.ai/accomplishments/9718c607-3c48-4cae-b1a8-a0580074b642)  
+[DeepLearning.AI, Generative AI for Everyone,2025/11](https://www.coursera.org/account/accomplishments/verify/7Z434X7FBMKA)  
+[Coursera, Leveraging GenAI to Develop Critical Thinking Skills,2026/1](https://www.coursera.org/account/accomplishments/verify/N91VWPI1KHUV)  
+[Coursera, AI for Autonomous Vehicles and Robotics,2025/11](https://www.coursera.org/account/accomplishments/verify/RKZKV1NS7K6V)  
+[digital.autodigital.auto, SDV 101: Introduction to Software Defined Vehicles,2025/11](https://www.coursera.org/account/accomplishments/verify/4BGXB0MKYKHM)  
+
 <!--
 **seigot/seigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -81,6 +81,10 @@ Exhibition link
 
 ### Course
 
+[DeepLearning.AI, Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/accomplishments/69f7d82b-efe8-4520-bcd2-1810d8c30410)  
+[DeepLearning.AI, Agent Skills with Anthropic](https://learn.deeplearning.ai/accomplishments/ba5a4e56-57b1-4d66-82a5-ecca89b25979)  
+[DeepLearning.AI, Generative AI for Software Development](https://learn.deeplearning.ai/certificates/1c2278ef-021c-4b0f-92d6-982385a0d635)  
+[DeepLearning.AI, Long-Term Agentic Memory With LangGraph](https://learn.deeplearning.ai/accomplishments/79e84c4e-1a33-4f3c-8a51-0c42289ab311)  
 [DeepLearning.AI, ACP: Agent Communication Protocol,2026/1](https://learn.deeplearning.ai/accomplishments/db663bf0-9682-40fd-bdfb-fd8bfaec93e1)  
 [DeepLearning.AI, MCP: Build Rich-Context AI Apps with Anthropic,2026/1](https://learn.deeplearning.ai/accomplishments/9718c607-3c48-4cae-b1a8-a0580074b642)  
 [DeepLearning.AI, Generative AI for Everyone,2025/11](https://www.coursera.org/account/accomplishments/verify/7Z434X7FBMKA)  

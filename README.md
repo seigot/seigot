@@ -90,6 +90,11 @@ Exhibition link
 [Coursera, University of Colorado Boulder/Successful Presentation](https://www.coursera.org/account/accomplishments/verify/IU6BVYLXAAOM)  
 [Coursera, IBM/Present with Purpose: Create/Deliver Effective Presentations](https://www.coursera.org/account/accomplishments/verify/CHAA8HURAJJ9)  
 [Coursera, Emory University/Consulting Presentations and Storytelling](https://www.coursera.org/account/accomplishments/verify/ROBXL3C570VZ)  
+[edx, Authorized Certificate of Completion for edX Data Structures & Algorithms I: ArrayLists, LinkedLists, Stacks and Queues](https://courses.edx.org/certificates/2e8d2d882b3e404ebc42161824e77923)  
+[edx, Authorized Certificate of Completion for edX Data Structures & Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps](https://courses.edx.org/certificates/54159f91e48345d18c6bd14f86c3bbb9)  
+[edx, Authorized Certificate of Completion for edX Data Structures & Algorithms III: AVL and 2-4 Trees, Divide and Conquer Algorithms](https://courses.edx.org/certificates/17d67dd232f44b86aabf3f7d10dd9cc9)  
+[edx, Authorized Certificate of Completion for edX Data Structures & Algorithms IV: Pattern Matching, Dijkstra’s, MST, and Dynamic Programming Algorithms](https://courses.edx.org/certificates/74b7aa891fd74045ba2c2770d6857ec2)  
+
 
 <!--
 **seigot/seigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

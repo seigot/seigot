@@ -80,7 +80,7 @@ Exhibition link
 [3次テーラー展開と曲率補正を用いたサブピクセルエッジ抽出](https://www.jstage.jst.go.jp/browse/jjspe/77/8/_contents/-char/ja)  
 
 ### Course
-
+[DeepLearning.AI, Generative AI for Software Development](https://learn.deeplearning.ai/certificates/1c2278ef-021c-4b0f-92d6-982385a0d635)  
 [DeepLearning.AI, Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/accomplishments/69f7d82b-efe8-4520-bcd2-1810d8c30410)  
 [DeepLearning.AI, Agent Skills with Anthropic](https://learn.deeplearning.ai/accomplishments/ba5a4e56-57b1-4d66-82a5-ecca89b25979)  
 [DeepLearning.AI, Generative AI for Software Development](https://learn.deeplearning.ai/certificates/1c2278ef-021c-4b0f-92d6-982385a0d635)  

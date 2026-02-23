@@ -98,10 +98,11 @@ Exhibition link
 [edx, Authorized Certificate of Completion for edX Data Structures & Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps](https://courses.edx.org/certificates/54159f91e48345d18c6bd14f86c3bbb9)  
 [edx, Authorized Certificate of Completion for edX Data Structures & Algorithms III: AVL and 2-4 Trees, Divide and Conquer Algorithms](https://courses.edx.org/certificates/17d67dd232f44b86aabf3f7d10dd9cc9)  
 [edx, Authorized Certificate of Completion for edX Data Structures & Algorithms IV: Pattern Matching, Dijkstra’s, MST, and Dynamic Programming Algorithms](https://courses.edx.org/certificates/74b7aa891fd74045ba2c2770d6857ec2)  
+[edx, Data Structures and Algorithms (GTx)](https://credentials.edx.org/credentials/482d7a0e50594f29853e6a1dde4c5984/)  
 [edx, Authorized Certificate of Completion for CS1331xI: Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics (2025-2026)](https://courses.edx.org/certificates/12ae249159374ae789aaf23711009e43)  
 [edx, Authorized Certificate of Completion for CS1331xII: Introduction to Object-Oriented Programming with Java II: Object-Oriented Programming and Algorithms (2025-2026)](https://courses.edx.org/certificates/bb16da4e594e452e89b36d0fe288e064)  
 [edx, Authorized Certificate of Completion for CS1331xIII: Introduction to Object-Oriented Programming with Java III: Exceptions, Data Structures, Recursion, and GUIs (2025-2026)](https://courses.edx.org/certificates/b2b0f5d491504676afd29fbf20b75776)  
-
+[edx, Introduction to Object-Oriented Programming with Java (GTx)](https://credentials.edx.org/credentials/0dd4641af010494fa08ce7fd9f217cfe/)  
 
 <!--
 **seigot/seigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

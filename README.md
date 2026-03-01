@@ -87,6 +87,7 @@ Exhibition link
 [DeepLearning.AI, Long-Term Agentic Memory With LangGraph](https://learn.deeplearning.ai/accomplishments/79e84c4e-1a33-4f3c-8a51-0c42289ab311)  
 [DeepLearning.AI, ACP: Agent Communication Protocol,2026/1](https://learn.deeplearning.ai/accomplishments/db663bf0-9682-40fd-bdfb-fd8bfaec93e1)  
 [DeepLearning.AI, MCP: Build Rich-Context AI Apps with Anthropic,2026/1](https://learn.deeplearning.ai/accomplishments/9718c607-3c48-4cae-b1a8-a0580074b642)  
+[A2A: The Agent2Agent Protocol](https://learn.deeplearning.ai/accomplishments/0502f99c-ccfe-47ce-9b2a-faafb69e62d2)  
 [DeepLearning.AI, Generative AI for Everyone,2025/11](https://www.coursera.org/account/accomplishments/verify/7Z434X7FBMKA)  
 [digital.autodigital.auto, SDV 101: Introduction to Software Defined Vehicles,2025/11](https://www.coursera.org/account/accomplishments/verify/4BGXB0MKYKHM)  
 [Coursera, Leveraging GenAI to Develop Critical Thinking Skills,2026/1](https://www.coursera.org/account/accomplishments/verify/N91VWPI1KHUV)  

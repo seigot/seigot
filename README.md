@@ -104,6 +104,9 @@ Exhibition link
 [edx, Authorized Certificate of Completion for CS1331xII: Introduction to Object-Oriented Programming with Java II: Object-Oriented Programming and Algorithms (2025-2026)](https://courses.edx.org/certificates/bb16da4e594e452e89b36d0fe288e064)  
 [edx, Authorized Certificate of Completion for CS1331xIII: Introduction to Object-Oriented Programming with Java III: Exceptions, Data Structures, Recursion, and GUIs (2025-2026)](https://courses.edx.org/certificates/b2b0f5d491504676afd29fbf20b75776)  
 [edx, Introduction to Object-Oriented Programming with Java (GTx)](https://credentials.edx.org/credentials/0dd4641af010494fa08ce7fd9f217cfe/)  
+[edx, CS1301xII: Computing in Python II: Control Structures](https://courses.edx.org/certificates/001902897e334e9c9884a1dd71f63ad7)  
+[edx, CS1301xIII: Computing in Python III: Data Structures](https://courses.edx.org/certificates/b079cc1f79e74d7c8c2a2993780237f4)  
+[edx, CS1301xIV: Computing in Python IV: Objects & Algorithms](https://courses.edx.org/certificates/929ba86e75784b2db881daeb8aa6098c)  
 
 <!--
 **seigot/seigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

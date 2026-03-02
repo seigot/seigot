@@ -107,6 +107,8 @@ Exhibition link
 [edx, CS1301xII: Computing in Python II: Control Structures](https://courses.edx.org/certificates/001902897e334e9c9884a1dd71f63ad7)  
 [edx, CS1301xIII: Computing in Python III: Data Structures](https://courses.edx.org/certificates/b079cc1f79e74d7c8c2a2993780237f4)  
 [edx, CS1301xIV: Computing in Python IV: Objects & Algorithms](https://courses.edx.org/certificates/929ba86e75784b2db881daeb8aa6098c)  
+[edx, CS1301xI: Computing in Python I: Fundamentals and Procedural Programming](https://courses.edx.org/certificates/f3b722fc10444c9e8d0e0fc70929ebd4)  
+[edx, Authorized Certificate of Completion for Introduction to Python Programming](https://credentials.edx.org/credentials/92a848f157974fcb9dbc4b42b501acdc/)  
 
 <!--
 **seigot/seigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

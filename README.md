@@ -79,7 +79,7 @@ Exhibition link
 ### Other
 [3次テーラー展開と曲率補正を用いたサブピクセルエッジ抽出](https://www.jstage.jst.go.jp/browse/jjspe/77/8/_contents/-char/ja)  
 
-### Course
+### Online Course
 [DeepLearning.AI, Generative AI for Software Development](https://learn.deeplearning.ai/certificates/1c2278ef-021c-4b0f-92d6-982385a0d635)  
 [DeepLearning.AI, Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/accomplishments/69f7d82b-efe8-4520-bcd2-1810d8c30410)  
 [DeepLearning.AI, Agent Skills with Anthropic](https://learn.deeplearning.ai/accomplishments/ba5a4e56-57b1-4d66-82a5-ecca89b25979)  
@@ -109,6 +109,7 @@ Exhibition link
 [edx, CS1301xIII: Computing in Python III: Data Structures](https://courses.edx.org/certificates/b079cc1f79e74d7c8c2a2993780237f4)  
 [edx, CS1301xIV: Computing in Python IV: Objects & Algorithms](https://courses.edx.org/certificates/929ba86e75784b2db881daeb8aa6098c)  
 [edx, CS1301xI: Computing in Python I: Fundamentals and Procedural Programming](https://courses.edx.org/certificates/f3b722fc10444c9e8d0e0fc70929ebd4)  
+[Certificate of Participation of Stanfords Social Innovation Review, Connecting the Dots Between Strategy and Design](https://ssir.org/webinars/entry/strategy-and-design)  
 
 <!--
 **seigot/seigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

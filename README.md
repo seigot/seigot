@@ -110,6 +110,7 @@ Exhibition link
 [edx, CS1301xIV: Computing in Python IV: Objects & Algorithms](https://courses.edx.org/certificates/929ba86e75784b2db881daeb8aa6098c)  
 [edx, CS1301xI: Computing in Python I: Fundamentals and Procedural Programming](https://courses.edx.org/certificates/f3b722fc10444c9e8d0e0fc70929ebd4)  
 [Certificate of Participation of Stanfords Social Innovation Review, Connecting the Dots Between Strategy and Design](https://ssir.org/webinars/entry/strategy-and-design)  
+[Certificate of Achievement in AI-Driven Leadership: Strategies for the Future verified by the Stanford Engineering Center for Global & Online Education](https://digitalcredential.stanford.edu/check/A470A7704FDB9DCAAA21B805EE1ACF5911319732F09570F1CCABD32604B07764dTRpMHdVOWJoanl3YjJTdXE0ZXdOWUJkc0FMTFd0L3FITDNFQ1ZTWGFPT09nQ1JR)  
 
 <!--
 **seigot/seigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

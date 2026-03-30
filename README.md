@@ -30,6 +30,7 @@ TOEIC 830点
 [MakerFaireLosAngels2025出展](https://losangeles.makerfaire.com/maker/entry/2098/)  
 [MakerFaire School Piedmont2025出展](https://www.piedmontmakers.org/school-maker-faire)  
 [MakerFaireBayArea2025出展](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
+[MakerFaire School, Coyote Grange2026出展](https://makered.substack.com/p/connecting-students-and-the-community)  
 [OpanSauce2025出展](https://opensauce.com)  
 [NT京都2024 出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
 [M5stack Japan Tour 2024 Spring Osaka出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  

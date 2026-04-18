@@ -115,6 +115,10 @@ Exhibition link
 [Certificate of Participation of Stanfords Social Innovation Review, Connecting the Dots Between Strategy and Design](https://ssir.org/webinars/entry/strategy-and-design)  
 [Certificate of Achievement in AI-Driven Leadership: Strategies for the Future verified by the Stanford Engineering Center for Global & Online Education](https://digitalcredential.stanford.edu/check/A470A7704FDB9DCAAA21B805EE1ACF5911319732F09570F1CCABD32604B07764dTRpMHdVOWJoanl3YjJTdXE0ZXdOWUJkc0FMTFd0L3FITDNFQ1ZTWGFPT09nQ1JR)  
 
+### LeetCode/NeetCode
+LeetCode Total solved --> 500+ solved, 0.5% (easy:100+, mediem:300+, hard:100+)  
+NeetCode Total solved --> 151+ solved, 0.8% (medium:50+, hard:149+)
+
 <!--
 **seigot/seigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -43,7 +43,7 @@ Exhibition link
 [MakerFaire BayArea2025出展](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
 [MakerFaire LosAngels2026出展](https://losangeles.makerfaire.com/maker/entry/3929/)  
 
-Timsmith Sponsor
+Timsmith Sponsor  
 [Tinsmith sponsor of Maker Faire Tokyo 2024](https://makezine.jp/event/mft2024/sponsors/)  
 [Tinsmith sponsor of Maker Faire Tokyo 2025](https://makezine.jp/event/mft2025/sponsors/)  
 [Tinsmith sponsor of Maker Faire Kyoto 2024](https://makezine.jp/event/mfk2024/sponsors/)  

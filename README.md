@@ -112,8 +112,8 @@ Exhibition link
 [edx, CS1301xIII: Computing in Python III: Data Structures](https://courses.edx.org/certificates/b079cc1f79e74d7c8c2a2993780237f4)  
 [edx, CS1301xIV: Computing in Python IV: Objects & Algorithms](https://courses.edx.org/certificates/929ba86e75784b2db881daeb8aa6098c)  
 [edx, CS1301xI: Computing in Python I: Fundamentals and Procedural Programming](https://courses.edx.org/certificates/f3b722fc10444c9e8d0e0fc70929ebd4)  
-[Certificate of Participation of Stanfords Social Innovation Review, Connecting the Dots Between Strategy and Design](https://ssir.org/webinars/entry/strategy-and-design)  
-[Certificate of Achievement in AI-Driven Leadership: Strategies for the Future verified by the Stanford Engineering Center for Global & Online Education](https://digitalcredential.stanford.edu/check/A470A7704FDB9DCAAA21B805EE1ACF5911319732F09570F1CCABD32604B07764dTRpMHdVOWJoanl3YjJTdXE0ZXdOWUJkc0FMTFd0L3FITDNFQ1ZTWGFPT09nQ1JR)  
+[(Stanford School of Innovation)Certificate of Participation of Stanfords Social Innovation Review, Connecting the Dots Between Strategy and Design](https://ssir.org/webinars/entry/strategy-and-design)  
+[(Stanford Engineering Center for Global & Online Education)Certificate of Achievement in AI-Driven Leadership: Strategies for the Future verified by the Stanford Engineering Center for Global & Online Education](https://digitalcredential.stanford.edu/check/A470A7704FDB9DCAAA21B805EE1ACF5911319732F09570F1CCABD32604B07764dTRpMHdVOWJoanl3YjJTdXE0ZXdOWUJkc0FMTFd0L3FITDNFQ1ZTWGFPT09nQ1JR)  
 
 ### LeetCode/NeetCode
 LeetCode Total solved --> 500+ solved, 0.5% (easy:100+, mediem:300+, hard:100+)  

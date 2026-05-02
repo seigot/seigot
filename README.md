@@ -25,21 +25,28 @@ TOEIC 830点
 [MakerFaireTokyo2023出展](https://makezine.jp/event/makers-mft2023/m0169/)  
 [MakerFaireKyoto2023出展](https://makezine.jp/event/makers-mfk2023/m0050/)  
 [Kariya Micro Maker Faire 2024出展](https://karaage.hatenadiary.jp/entry/2024/02/26/073000)  
-[MakerFaireKyoto2024出展](https://makezine.jp/event/makers-mfk2024/m0073/)  
-[MakerFaireBayArea2024出展](https://makerfaire.com/maker/entry/75927/)  
-[MakerFaireLosAngels2025出展](https://losangeles.makerfaire.com/maker/entry/2098/)  
+[MakerFaire Kyoto2024出展](https://makezine.jp/event/makers-mfk2024/m0073/)  
+[MakerFaire BayArea2024出展](https://makerfaire.com/maker/entry/75927/)  
+[MakerFaire LosAngels2025出展](https://losangeles.makerfaire.com/maker/entry/2098/)  
 [MakerFaire School Piedmont2025出展](https://www.piedmontmakers.org/school-maker-faire)  
-[MakerFaireBayArea2025出展](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
+[MakerFaire BayArea2025出展](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
 [MakerFaire School, Coyote Grange2026出展](https://makered.substack.com/p/connecting-students-and-the-community)  
+[MakerFaire LosAngels2026出展](https://losangeles.makerfaire.com/maker/entry/3929/)  
 [OpanSauce2025出展](https://opensauce.com)  
 [NT京都2024 出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
 [M5stack Japan Tour 2024 Spring Osaka出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  
 
 Exhibition link  
-[MakerFaireBayArea2024 https://makerfaire.com/maker/entry/75927/](https://makerfaire.com/maker/entry/75927/)  
-[MakerFaireLosAngels2025 https://losangeles.makerfaire.com/maker/entry/2098/](https://losangeles.makerfaire.com/maker/entry/2098/)  
-[OpenSauce2025 https://opensauce.com/exhibits/](https://opensauce.com/exhibits/)  
-[MakerFaireBayArea2025出展](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
+[MakerFaire BayArea2024 https://makerfaire.com/maker/entry/75927/](https://makerfaire.com/maker/entry/75927/)  
+[MakerFaire LosAngels2025 https://losangeles.makerfaire.com/maker/entry/2098/](https://losangeles.makerfaire.com/maker/entry/2098/)  
+[OpenSauce 2025 https://opensauce.com/exhibits/](https://opensauce.com/exhibits/)  
+[MakerFaire BayArea2025出展](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
+[MakerFaire LosAngels2026出展](https://losangeles.makerfaire.com/maker/entry/3929/)  
+
+Timsmith Sponsor
+[Tinsmith sponsor of Maker Faire Tokyo 2024](https://makezine.jp/event/mft2024/sponsors/)  
+[Tinsmith sponsor of Maker Faire Tokyo 2025](https://makezine.jp/event/mft2025/sponsors/)  
+[Tinsmith sponsor of Maker Faire Kyoto 2024](https://makezine.jp/event/mfk2024/sponsors/)  
 
 ### コミュニティ運営／Volunteer
 

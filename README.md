@@ -126,7 +126,7 @@ Timsmith Sponsor
 
 
 
-### LeetCode/NeetCode
+### LeetCode/NeetCode [url](https://github.com/seigot/leetcode)
 LeetCode Total solved --> 500+ solved, 0.5% (easy:100+, mediem:300+, hard:100+)  
 NeetCode Total solved --> 151+ solved, 0.8% (medium:50+, hard:149+)
 

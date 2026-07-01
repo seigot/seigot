@@ -122,6 +122,7 @@ Timsmith Sponsor
 [edx, CS1301xI: Computing in Python I: Fundamentals and Procedural Programming](https://courses.edx.org/certificates/f3b722fc10444c9e8d0e0fc70929ebd4)  
 [(Stanford School of Innovation)Certificate of Participation of Stanfords Social Innovation Review, Connecting the Dots Between Strategy and Design](https://ssir.org/webinars/entry/strategy-and-design)  
 [(Stanford Engineering Center for Global & Online Education)Certificate of Achievement in AI-Driven Leadership: Strategies for the Future verified by the Stanford Engineering Center for Global & Online Education](https://digitalcredential.stanford.edu/check/A470A7704FDB9DCAAA21B805EE1ACF5911319732F09570F1CCABD32604B07764dTRpMHdVOWJoanl3YjJTdXE0ZXdOWUJkc0FMTFd0L3FITDNFQ1ZTWGFPT09nQ1JR)  
+[(Stanford Engineering Center for Global & Online Education)XGAL0001 - UI/UX Design for AI Products](https://digitalcredential.stanford.edu/check/F403D10C8A1FBE720EC169BA9DE8FBB4BFF9DF73C3D36AFDC304B0D6D19C4CEBU1E4cVVLR3F0dWVCU1JCcktqak9rM3pmMVF2RGtCZUt6MXMwc01lU3UvTHhyQXpy)  
 [(Stanford Continuing Studies) BUS 162 Agentic AI for Workplace Productivity/Completed with Grade: A+](https://continuingstudies.stanford.edu/student/grade-report/sp25)  
 
 

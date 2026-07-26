@@ -14,7 +14,7 @@ TOEIC Listening & Reading: 830
 [The UC San Diego Rady School of Management’s MicroMBA(2025/7-8)](https://www.credly.com/badges/c0bceaef-c3a1-4c8e-93ab-6a7935265201)  
 
 
-### 競技会、他
+### competitions, etc/競技会、他
 
 [第5回自動運転AIチャレンジ チャレンジ部門3位 (Mar.2023)](https://www.jsae.or.jp/jaaic/result.php)  
 [第6回自動運転AIチャレンジ 決勝進出 (Nov.2023)](https://www.jsae.or.jp/jaaic/2023_result.php)  

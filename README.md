@@ -40,11 +40,11 @@ TOEIC Listening & Reading: 830
 
 Exhibition link  
 [MakerFaire BayArea2024 https://makerfaire.com/maker/entry/75927/](https://makerfaire.com/maker/entry/75927/)  
+[MakerFaire BayArea2025](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
 [MakerFaire LosAngels2025 https://losangeles.makerfaire.com/maker/entry/2098/](https://losangeles.makerfaire.com/maker/entry/2098/)  
+[MakerFaire LosAngels2026](https://losangeles.makerfaire.com/maker/entry/3929/)  
 [OpenSauce 2025 https://opensauce.com/exhibits/](https://opensauce.com/exhibits/)  
 [OpenSauce 2026 https://opensauce.com/exhibits/](https://opensauce.com/exhibits/)  
-[MakerFaire BayArea2025](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
-[MakerFaire LosAngels2026](https://losangeles.makerfaire.com/maker/entry/3929/)  
 
 Timsmith Sponsor  
 [Tinsmith sponsor of Maker Faire Tokyo 2024](https://makezine.jp/event/mft2024/sponsors/)  

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Certifications
+### Certifications/資格
 
 [IPA:Embedded Systems Specialist Examination/エンベデッドシステムスペシャリスト](https://www.ipa.go.jp/shiken/kubun/es.html) (June 2018)  
 [IPA:Registered Information Security Specialist Examination — Passed/情報処理安全確保支援士合格](https://www.ipa.go.jp/shiken/kubun/sc.html) (2021/12)  
@@ -21,35 +21,37 @@ TOEIC Listening & Reading: 830
 [自動運転AIチャレンジ2023（シミュレーション）コミュニティ貢献賞・広報賞 (Mar.2024)](https://www.jsae.or.jp/jaaic/2023ver/simulation_result/)  
 [Japan Automotive AI Challenge 2024 advanced Category 1st prize (Dec.2024)](https://www.jsae.or.jp/press/detail/2452/)  
 
-### Maker Event/Meetup
+### Maker Event/Meetup Exibitor
 
-[MakerFaireTokyo2023出展](https://makezine.jp/event/makers-mft2023/m0169/)  
-[MakerFaireKyoto2023出展](https://makezine.jp/event/makers-mfk2023/m0050/)  
-[Kariya Micro Maker Faire 2024出展](https://karaage.hatenadiary.jp/entry/2024/02/26/073000)  
-[MakerFaire Kyoto2024出展](https://makezine.jp/event/makers-mfk2024/m0073/)  
-[MakerFaire BayArea2024出展](https://makerfaire.com/maker/entry/75927/)  
-[MakerFaire LosAngels2025出展](https://losangeles.makerfaire.com/maker/entry/2098/)  
-[MakerFaire School Piedmont2025出展](https://www.piedmontmakers.org/school-maker-faire)  
-[MakerFaire BayArea2025出展](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
-[MakerFaire School, Coyote Grange2026出展](https://makered.substack.com/p/connecting-students-and-the-community)  
-[MakerFaire LosAngels2026出展](https://losangeles.makerfaire.com/maker/entry/3929/)  
-[OpanSauce2025出展](https://opensauce.com)  
-[NT京都2024 出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
-[M5stack Japan Tour 2024 Spring Osaka出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  
+[MakerFaireTokyo2023 Exibitor/出展](https://makezine.jp/event/makers-mft2023/m0169/)  
+[MakerFaireKyoto2023 Exibitor/出展](https://makezine.jp/event/makers-mfk2023/m0050/)  
+[Kariya Micro Maker Faire 2024 Exibitor/出展](https://karaage.hatenadiary.jp/entry/2024/02/26/073000)  
+[MakerFaire Kyoto2024 Exibitor/出展](https://makezine.jp/event/makers-mfk2024/m0073/)  
+[MakerFaire BayArea2024 Exibitor/出展](https://makerfaire.com/maker/entry/75927/)  
+[MakerFaire LosAngels2025 Exibitor/出展](https://losangeles.makerfaire.com/maker/entry/2098/)  
+[MakerFaire School Piedmont2025 Exibitor/出展](https://www.piedmontmakers.org/school-maker-faire)  
+[MakerFaire BayArea2025 Exibitor/出展](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
+[MakerFaire School, Coyote Grange2026 Exibitor/出展](https://makered.substack.com/p/connecting-students-and-the-community)  
+[MakerFaire LosAngels2026 Exibitor/出展](https://losangeles.makerfaire.com/maker/entry/3929/)  
+[OpanSauce2025 Exibitor/出展](https://opensauce.com)  
+[NT Kyoto2024 Exibitor/出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
+[M5stack Japan Tour 2024 Spring Osaka Exibitor/出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  
 
 Exhibition link  
 [MakerFaire BayArea2024 https://makerfaire.com/maker/entry/75927/](https://makerfaire.com/maker/entry/75927/)  
 [MakerFaire LosAngels2025 https://losangeles.makerfaire.com/maker/entry/2098/](https://losangeles.makerfaire.com/maker/entry/2098/)  
 [OpenSauce 2025 https://opensauce.com/exhibits/](https://opensauce.com/exhibits/)  
-[MakerFaire BayArea2025出展](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
-[MakerFaire LosAngels2026出展](https://losangeles.makerfaire.com/maker/entry/3929/)  
+[OpenSauce 2026 https://opensauce.com/exhibits/](https://opensauce.com/exhibits/)  
+[MakerFaire BayArea2025](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
+[MakerFaire LosAngels2026](https://losangeles.makerfaire.com/maker/entry/3929/)  
 
 Timsmith Sponsor  
 [Tinsmith sponsor of Maker Faire Tokyo 2024](https://makezine.jp/event/mft2024/sponsors/)  
 [Tinsmith sponsor of Maker Faire Tokyo 2025](https://makezine.jp/event/mft2025/sponsors/)  
+[Tinsmith sponsor of Maker Faire Tokyo 2026](https://makezine.jp/event/mft2026/sponsors/)  
 [Tinsmith sponsor of Maker Faire Kyoto 2024](https://makezine.jp/event/mfk2024/sponsors/)  
 
-### コミュニティ運営／Volunteer
+### Community Volunteer/コミュニティ運営
 
 [2022.pycon.jp-Volunteer](https://2022.pycon.jp/en/staff/)  
 [2023-apac.pycon.jp-Volunteer](https://2023-apac.pycon.jp/staff)  
@@ -57,7 +59,7 @@ Timsmith Sponsor
 [2024-pybay.org-Volunteer](https://pybay.org)  
 [M5stack Japan Tour 2023 Spring Osaka Staff-Volunteer](https://m5stack2023osaka.peatix.com/?lang=ja)  
 [M5stack Japan Tour 2024 Spring Osaka Staff-Volunteer](https://m5stack2024springosaka.peatix.com/?lang=ja)  
-[つくろか！３ 2024/10/26-27@Osaka-Co-Corganizer/Volunteer](https://tsukuroka3.notion.site/3-WEB-26e2a0c5174641bc8382d63a6dd70ab0)  
+[Tsukuroka!3 / つくろか！３ 2024/10/26-27@Osaka-Co-Corganizer/Volunteer](https://tsukuroka3.notion.site/3-WEB-26e2a0c5174641bc8382d63a6dd70ab0)  
 [challenge_club](https://challenge-club.connpass.com/)  
 [SF BayArea Japan Maker Community](https://www.eventbrite.com/o/sf-bay-area-japan-maker-community-86198715633)  
 
@@ -65,9 +67,9 @@ Timsmith Sponsor
 
 [https://note.com/seigot](https://note.com/seigot)  
 [https://qiita.com/seigot](https://qiita.com/seigot)  
-[Qiita adventcavendar2022完走賞](https://blog.qiita.com/adventcalendar-2022-qiitapresents-winners/)  
-[Qiita adventcavendar2023完走賞](https://blog.qiita.com/adventcalendar-2023-qiitapresents-winners/)  
-[とにほめLT会](https://tonihome.connpass.com)  
+[Qiita adventcavendar2022-winners/完走賞](https://blog.qiita.com/adventcalendar-2022-qiitapresents-winners/)  
+[Qiita adventcavendar2023-winners/完走賞](https://blog.qiita.com/adventcalendar-2023-qiitapresents-winners/)  
+[Tonihome LT/とにほめLT会](https://tonihome.connpass.com)  
 
 ## Press  
 [パナソニックオートモーティブシステムズが「自動運転AIチャレンジ2022」で３位入賞](https://news.panasonic.com/jp/topics/205053)  

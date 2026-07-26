@@ -2,15 +2,15 @@
 
 ### Certifications/資格
 
-[IPA:Embedded Systems Specialist Examination/エンベデッドシステムスペシャリスト](https://www.ipa.go.jp/shiken/kubun/es.html) (June 2018)  
-[IPA:Registered Information Security Specialist Examination — Passed/情報処理安全確保支援士合格](https://www.ipa.go.jp/shiken/kubun/sc.html) (2021/12)  
-[AWS:Certified Solutions Architect – Associate/ソリューションアーキテクトアソシエイト](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/) (2023/5)  
-[AWS:Certified SysOps Administrator – Associate/SysOpsアドミニストレータアソシエイト](https://aws.amazon.com/jp/certification/certified-sysops-admin-associate/) (2024/1)  
+[IPA:Embedded Systems Specialist Examination / エンベデッドシステムスペシャリスト](https://www.ipa.go.jp/shiken/kubun/es.html) (June 2018)  
+[IPA:Registered Information Security Specialist Examination — Passed / 情報処理安全確保支援士合格](https://www.ipa.go.jp/shiken/kubun/sc.html) (2021/12)  
+[AWS:Certified Solutions Architect – Associate / ソリューションアーキテクトアソシエイト](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/) (2023/5)  
+[AWS:Certified SysOps Administrator – Associate / SysOpsアドミニストレータアソシエイト](https://aws.amazon.com/jp/certification/certified-sysops-admin-associate/) (2024/1)  
 TOEIC Listening & Reading: 830  
-[Image Processing Engineer Certification, Expert Level/画像処理エンジニア検定 エキスパート](https://www.cgarts.or.jp/v1/kentei/about/img_engineer/second.html)  
-[CG Engineer Certification, Expert Level/CGエンジニア検定　エキスパート](https://www.cgarts.or.jp/v1/kentei/about/cg_engineer/index.html)  
-[NPO Practical Management Program — Completed/NPO実践マネジメント講座 修了(2012)](https://center.public.or.jp/products/lecture02.html)  
-[Praise Master Certification Level 3/ほめ達！検定 3級(2025/9)](https://www.hometatsu.jp/test/index.html)    
+[Image Processing Engineer Certification, Expert Level / 画像処理エンジニア検定 エキスパート](https://www.cgarts.or.jp/v1/kentei/about/img_engineer/second.html)  
+[CG Engineer Certification, Expert Level / CGエンジニア検定　エキスパート](https://www.cgarts.or.jp/v1/kentei/about/cg_engineer/index.html)  
+[NPO Practical Management Program — Completed / NPO実践マネジメント講座 修了(2012)](https://center.public.or.jp/products/lecture02.html)  
+[Praise Master Certification Level 3 / ほめ達！検定 3級(2025/9)](https://www.hometatsu.jp/test/index.html)    
 [The UC San Diego Rady School of Management’s MicroMBA(2025/7-8)](https://www.credly.com/badges/c0bceaef-c3a1-4c8e-93ab-6a7935265201)  
 
 
@@ -23,22 +23,23 @@ TOEIC Listening & Reading: 830
 
 ### Maker Event/Meetup Exibitor
 
-[MakerFaireTokyo2023 Exibitor/出展](https://makezine.jp/event/makers-mft2023/m0169/)  
-[MakerFaireKyoto2023 Exibitor/出展](https://makezine.jp/event/makers-mfk2023/m0050/)  
-[Kariya Micro Maker Faire 2024 Exibitor/出展](https://karaage.hatenadiary.jp/entry/2024/02/26/073000)  
-[MakerFaire Kyoto2024 Exibitor/出展](https://makezine.jp/event/makers-mfk2024/m0073/)  
-[MakerFaire BayArea2024 Exibitor/出展](https://makerfaire.com/maker/entry/75927/)  
-[MakerFaire LosAngels2025 Exibitor/出展](https://losangeles.makerfaire.com/maker/entry/2098/)  
-[MakerFaire School Piedmont2025 Exibitor/出展](https://www.piedmontmakers.org/school-maker-faire)  
-[MakerFaire BayArea2025 Exibitor/出展](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
-[MakerFaire School, Coyote Grange2026 Exibitor/出展](https://makered.substack.com/p/connecting-students-and-the-community)  
-[MakerFaire LosAngels2026 Exibitor/出展](https://losangeles.makerfaire.com/maker/entry/3929/)  
-[OpanSauce2025 Exibitor/出展](https://opensauce.com)  
-[OpanSauce2026 Exibitor/出展](https://opensauce.com)  
-[NT Kyoto2024 Exibitor/出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
-[M5stack Japan Tour 2024 Spring Osaka Exibitor/出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  
+[MakerFaireTokyo2023 Exibitor / 出展](https://makezine.jp/event/makers-mft2023/m0169/)  
+[MakerFaireKyoto2023 Exibitor / 出展](https://makezine.jp/event/makers-mfk2023/m0050/)  
+[Kariya Micro Maker Faire 2024 Exibitor / 出展](https://karaage.hatenadiary.jp/entry/2024/02/26/073000)  
+[MakerFaire Kyoto2024 Exibitor / 出展](https://makezine.jp/event/makers-mfk2024/m0073/)  
+[MakerFaire BayArea2024 Exibitor / 出展](https://makerfaire.com/maker/entry/75927/)  
+[MakerFaire LosAngels2025 Exibitor / 出展](https://losangeles.makerfaire.com/maker/entry/2098/)  
+[MakerFaire School Piedmont2025 Exibitor / 出展](https://www.piedmontmakers.org/school-maker-faire)  
+[MakerFaire BayArea2025 Exibitor / 出展](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
+[MakerFaire School, Coyote Grange2026 Exibitor / 出展](https://makered.substack.com/p/connecting-students-and-the-community)  
+[MakerFaire LosAngels2026 Exibitor / 出展](https://losangeles.makerfaire.com/maker/entry/3929/)  
+[OpanSauce2025 Exibitor / 出展](https://opensauce.com)  
+[OpanSauce2026 Exibitor / 出展](https://opensauce.com)  
+[NT Kyoto2024 Exibitor / 出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
+[M5stack Japan Tour 2024 Spring Osaka Exibitor / 出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  
 
 Exhibition link  
+"SF BayArea Japan Maker Community"   
 [MakerFaire BayArea2024 https://makerfaire.com/maker/entry/75927/](https://makerfaire.com/maker/entry/75927/)  
 [MakerFaire BayArea2025](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
 [MakerFaire LosAngels2025 https://losangeles.makerfaire.com/maker/entry/2098/](https://losangeles.makerfaire.com/maker/entry/2098/)  
@@ -68,9 +69,9 @@ Timsmith Sponsor
 
 [https://note.com/seigot](https://note.com/seigot)  
 [https://qiita.com/seigot](https://qiita.com/seigot)  
-[Qiita adventcavendar2022-winners/完走賞](https://blog.qiita.com/adventcalendar-2022-qiitapresents-winners/)  
-[Qiita adventcavendar2023-winners/完走賞](https://blog.qiita.com/adventcalendar-2023-qiitapresents-winners/)  
-[Tonihome LT/とにほめLT会](https://tonihome.connpass.com)  
+[Qiita adventcavendar2022-winners / 完走賞](https://blog.qiita.com/adventcalendar-2022-qiitapresents-winners/)  
+[Qiita adventcavendar2023-winners / 完走賞](https://blog.qiita.com/adventcalendar-2023-qiitapresents-winners/)  
+[Tonihome LT / とにほめLT会](https://tonihome.connpass.com)  
 
 ## Press  
 [パナソニックオートモーティブシステムズが「自動運転AIチャレンジ2022」で３位入賞](https://news.panasonic.com/jp/topics/205053)  
@@ -89,7 +90,7 @@ Timsmith Sponsor
 [経路探索方法、ナビゲーション方法、ナビゲーションシステム、移動体、プログラム、及び経路探索用学習方法/JP2020118652A](https://patents.google.com/patent/JP2020118652A/ja)  
 
 ### Other
-[3次テーラー展開と曲率補正を用いたサブピクセルエッジ抽出](https://www.jstage.jst.go.jp/browse/jjspe/77/8/_contents/-char/ja)  
+[Subpixel Edge Extraction by Using Third Order Taylor Series Expansion and Correction with Curvature / 3次テーラー展開と曲率補正を用いたサブピクセルエッジ抽出](https://www.jstage.jst.go.jp/browse/jjspe/77/8/_contents/-char/ja)  
 
 ### Online Course
 [DeepLearning.AI, Safe and reliable AI via guardrails](https://learn.deeplearning.ai/accomplishments/a6848101-91b6-4219-8e00-1edcc8178a7e?usp=sharing)  

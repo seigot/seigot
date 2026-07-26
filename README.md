@@ -104,6 +104,7 @@ Timsmith Sponsor
 [DeepLearning.AI, MCP: Build Rich-Context AI Apps with Anthropic,2026/1](https://learn.deeplearning.ai/accomplishments/9718c607-3c48-4cae-b1a8-a0580074b642)  
 [DeepLearning.AI, A2A: The Agent2Agent Protocol](https://learn.deeplearning.ai/accomplishments/0502f99c-ccfe-47ce-9b2a-faafb69e62d2)  
 [DeepLearning.AI, Generative AI for Everyone,2025/11](https://www.coursera.org/account/accomplishments/verify/7Z434X7FBMKA)  
+[DeepLearning.AI, AI Agents in LangGraph,2026/7](https://learn.deeplearning.ai/accomplishments/6d9bc6ba-637a-4e08-bb41-b535b1e8ecb4)  
 [digital.autodigital.auto, SDV 101: Introduction to Software Defined Vehicles,2025/11](https://www.coursera.org/account/accomplishments/verify/4BGXB0MKYKHM)  
 [Coursera, Leveraging GenAI to Develop Critical Thinking Skills,2026/1](https://www.coursera.org/account/accomplishments/verify/N91VWPI1KHUV)  
 [Coursera, AI for Autonomous Vehicles and Robotics,2025/11](https://www.coursera.org/account/accomplishments/verify/RKZKV1NS7K6V)  

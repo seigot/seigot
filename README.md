@@ -2,8 +2,8 @@
 
 ### Certifications / 資格
 
-[Japan Innovation Platform Agency: Embedded Systems Specialist Examination / エンベデッドシステムスペシャリスト](https://www.ipa.go.jp/shiken/kubun/es.html) (2018/6)  
-[Japan Innovation Platform Agency: Registered Information Security Specialist Examination - Passed / 情報処理安全確保支援士合格](https://www.ipa.go.jp/shiken/kubun/sc.html) (2021/12)  
+[Japan, Innovation Platform Agency: Embedded Systems Specialist Examination / エンベデッドシステムスペシャリスト](https://www.ipa.go.jp/shiken/kubun/es.html) (2018/6)  
+[Japan, Innovation Platform Agency: Registered Information Security Specialist Examination - Passed / 情報処理安全確保支援士合格](https://www.ipa.go.jp/shiken/kubun/sc.html) (2021/12)  
 [AWS:Certified Solutions Architect – Associate / ソリューションアーキテクトアソシエイト](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/) (2023/5)  
 [AWS:Certified SysOps Administrator – Associate / SysOpsアドミニストレータアソシエイト](https://aws.amazon.com/jp/certification/certified-sysops-admin-associate/) (2024/1)  
 TOEIC Listening & Reading: 830  
@@ -21,29 +21,29 @@ TOEIC Listening & Reading: 830
 [自動運転AIチャレンジ2023（シミュレーション）コミュニティ貢献賞・広報賞 (Mar.2024)](https://www.jsae.or.jp/jaaic/2023ver/simulation_result/)  
 [Japan Automotive AI Challenge 2024 advanced Category 1st prize (Dec.2024)](https://www.jsae.or.jp/press/detail/2452/)  
 
-### Maker Event / Meetup Exibitor
+### Maker Event / Meetup Exhibitor
 
-[MakerFaireTokyo2023 Exibitor / 出展](https://makezine.jp/event/makers-mft2023/m0169/)  
-[MakerFaireKyoto2023 Exibitor / 出展](https://makezine.jp/event/makers-mfk2023/m0050/)  
-[Kariya Micro Maker Faire 2024 Exibitor / 出展](https://karaage.hatenadiary.jp/entry/2024/02/26/073000)  
-[MakerFaire Kyoto2024 Exibitor / 出展](https://makezine.jp/event/makers-mfk2024/m0073/)  
-[MakerFaire BayArea2024 Exibitor / 出展](https://makerfaire.com/maker/entry/75927/)  
-[MakerFaire LosAngels2025 Exibitor / 出展](https://losangeles.makerfaire.com/maker/entry/2098/)  
-[MakerFaire School Piedmont2025 Exibitor / 出展](https://www.piedmontmakers.org/school-maker-faire)  
-[MakerFaire BayArea2025 Exibitor / 出展](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
-[MakerFaire School, Coyote Grange2026 Exibitor / 出展](https://makered.substack.com/p/connecting-students-and-the-community)  
-[MakerFaire LosAngels2026 Exibitor / 出展](https://losangeles.makerfaire.com/maker/entry/3929/)  
-[OpanSauce2025 Exibitor / 出展](https://opensauce.com)  
-[OpanSauce2026 Exibitor / 出展](https://opensauce.com)  
-[NT Kyoto2024 Exibitor / 出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
-[M5stack Japan Tour 2024 Spring Osaka Exibitor / 出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  
+[MakerFaireTokyo2023 Exhibitor / 出展](https://makezine.jp/event/makers-mft2023/m0169/)  
+[MakerFaireKyoto2023 Exhibitor / 出展](https://makezine.jp/event/makers-mfk2023/m0050/)  
+[Kariya Micro Maker Faire 2024 Exhibitor / 出展](https://karaage.hatenadiary.jp/entry/2024/02/26/073000)  
+[MakerFaire Kyoto2024 Exhibitor / 出展](https://makezine.jp/event/makers-mfk2024/m0073/)  
+[MakerFaire BayArea2024 Exhibitor / 出展](https://makerfaire.com/maker/entry/75927/)  
+[MakerFaire Los Angels2025 Exhibitor / 出展](https://losangeles.makerfaire.com/maker/entry/2098/)  
+[MakerFaire School Piedmont2025 Exhibitor / 出展](https://www.piedmontmakers.org/school-maker-faire)  
+[MakerFaire BayArea2025 Exhibitor / 出展](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
+[MakerFaire School, Coyote Grange2026 Exhibitor / 出展](https://makered.substack.com/p/connecting-students-and-the-community)  
+[MakerFaire Los Angels2026 Exhibitor / 出展](https://losangeles.makerfaire.com/maker/entry/3929/)  
+[OpenSauce2025 Exhibitor / 出展](https://opensauce.com)  
+[OpenSauce2026 Exhibitor / 出展](https://opensauce.com)  
+[NT Kyoto2024 Exhibitor / 出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
+[M5stack Japan Tour 2024 Spring Osaka Exhibitor / 出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  
 
 Exhibition link  
 "SF BayArea Japan Maker Community"   
 [MakerFaire BayArea2024 https://makerfaire.com/maker/entry/75927/](https://makerfaire.com/maker/entry/75927/)  
 [MakerFaire BayArea2025](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
-[MakerFaire LosAngels2025 https://losangeles.makerfaire.com/maker/entry/2098/](https://losangeles.makerfaire.com/maker/entry/2098/)  
-[MakerFaire LosAngels2026](https://losangeles.makerfaire.com/maker/entry/3929/)  
+[MakerFaire Los Angels2025 https://losangeles.makerfaire.com/maker/entry/2098/](https://losangeles.makerfaire.com/maker/entry/2098/)  
+[MakerFaire Los Angels2026](https://losangeles.makerfaire.com/maker/entry/3929/)  
 [OpenSauce 2025 https://opensauce.com/exhibits/](https://opensauce.com/exhibits/)  
 [OpenSauce 2026 https://opensauce.com/exhibits/](https://opensauce.com/exhibits/)  
 
@@ -132,7 +132,7 @@ Timsmith Sponsor
 
 
 ### LeetCode/NeetCode [url](https://github.com/seigot/leetcode)
-LeetCode Total solved --> 500+ solved, 0.5% (easy:100+, mediem:300+, hard:100+)  
+LeetCode Total solved --> 500+ solved, 0.5% (easy:100+, medium:300+, hard:100+)  
 NeetCode Total solved --> 151+ solved, 0.8% (medium:50+, hard:149+)  
 [Problem Solving(Intermediate)](https://www.hackerrank.com/certificates/061cf7978f48)  
 

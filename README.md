@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Certifications/資格
+### Certifications / 資格
 
 [IPA:Embedded Systems Specialist Examination / エンベデッドシステムスペシャリスト](https://www.ipa.go.jp/shiken/kubun/es.html) (June 2018)  
 [IPA:Registered Information Security Specialist Examination — Passed / 情報処理安全確保支援士合格](https://www.ipa.go.jp/shiken/kubun/sc.html) (2021/12)  
@@ -14,14 +14,14 @@ TOEIC Listening & Reading: 830
 [The UC San Diego Rady School of Management’s MicroMBA(2025/7-8)](https://www.credly.com/badges/c0bceaef-c3a1-4c8e-93ab-6a7935265201)  
 
 
-### competitions, etc/競技会、他
+### competitions, etc / 競技会、他
 
 [第5回自動運転AIチャレンジ チャレンジ部門3位 (Mar.2023)](https://www.jsae.or.jp/jaaic/result.php)  
 [第6回自動運転AIチャレンジ 決勝進出 (Nov.2023)](https://www.jsae.or.jp/jaaic/2023_result.php)  
 [自動運転AIチャレンジ2023（シミュレーション）コミュニティ貢献賞・広報賞 (Mar.2024)](https://www.jsae.or.jp/jaaic/2023ver/simulation_result/)  
 [Japan Automotive AI Challenge 2024 advanced Category 1st prize (Dec.2024)](https://www.jsae.or.jp/press/detail/2452/)  
 
-### Maker Event/Meetup Exibitor
+### Maker Event / Meetup Exibitor
 
 [MakerFaireTokyo2023 Exibitor / 出展](https://makezine.jp/event/makers-mft2023/m0169/)  
 [MakerFaireKyoto2023 Exibitor / 出展](https://makezine.jp/event/makers-mfk2023/m0050/)  
@@ -53,7 +53,7 @@ Timsmith Sponsor
 [Tinsmith sponsor of Maker Faire Tokyo 2026](https://makezine.jp/event/mft2026/sponsors/)  
 [Tinsmith sponsor of Maker Faire Kyoto 2024](https://makezine.jp/event/mfk2024/sponsors/)  
 
-### Community Volunteer/コミュニティ運営
+### Community Volunteer / コミュニティ運営
 
 [2022.pycon.jp-Volunteer](https://2022.pycon.jp/en/staff/)  
 [2023-apac.pycon.jp-Volunteer](https://2023-apac.pycon.jp/staff)  

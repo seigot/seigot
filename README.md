@@ -2,8 +2,8 @@
 
 ### Certifications / 資格
 
-[Japan Innovation Platform Agency(IPA): Embedded Systems Specialist Examination / エンベデッドシステムスペシャリスト](https://www.ipa.go.jp/shiken/kubun/es.html) (2018/6)  
-[Japan Innovation Platform Agency(IPA): Registered Information Security Specialist Examination — Passed / 情報処理安全確保支援士合格](https://www.ipa.go.jp/shiken/kubun/sc.html) (2021/12)  
+[Japan Innovation Platform Agency: Embedded Systems Specialist Examination / エンベデッドシステムスペシャリスト](https://www.ipa.go.jp/shiken/kubun/es.html) (2018/6)  
+[Japan Innovation Platform Agency: Registered Information Security Specialist Examination - Passed / 情報処理安全確保支援士合格](https://www.ipa.go.jp/shiken/kubun/sc.html) (2021/12)  
 [AWS:Certified Solutions Architect – Associate / ソリューションアーキテクトアソシエイト](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/) (2023/5)  
 [AWS:Certified SysOps Administrator – Associate / SysOpsアドミニストレータアソシエイト](https://aws.amazon.com/jp/certification/certified-sysops-admin-associate/) (2024/1)  
 TOEIC Listening & Reading: 830  

@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-### 資格
+### Certifications
 
-[IPA:エンベデッドシステムスペシャリスト](https://www.ipa.go.jp/shiken/kubun/es.html) (2018/6)  
-[IPA:情報処理安全確保支援士合格](https://www.ipa.go.jp/shiken/kubun/sc.html) (2021/12)  
-[AWS:ソリューションアーキテクトアソシエイト](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/) (2023/5)  
-[AWS:SysOpsアドミニストレータアソシエイト](https://aws.amazon.com/jp/certification/certified-sysops-admin-associate/) (2024/1)  
-TOEIC 830点  
-[画像処理エンジニア検定 エキスパート](https://www.cgarts.or.jp/v1/kentei/about/img_engineer/second.html)  
-[CGエンジニア検定　エキスパート](https://www.cgarts.or.jp/v1/kentei/about/cg_engineer/index.html)  
-[NPO実践マネジメント講座 修了(2012)](https://center.public.or.jp/products/lecture02.html)  
-[ほめ達！検定 3級(2025/9)](https://www.hometatsu.jp/test/index.html)    
+[IPA:Embedded Systems Specialist Examination/エンベデッドシステムスペシャリスト](https://www.ipa.go.jp/shiken/kubun/es.html) (June 2018)  
+[IPA:Registered Information Security Specialist Examination — Passed/情報処理安全確保支援士合格](https://www.ipa.go.jp/shiken/kubun/sc.html) (2021/12)  
+[AWS:Certified Solutions Architect – Associate/ソリューションアーキテクトアソシエイト](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/) (2023/5)  
+[AWS:Certified SysOps Administrator – Associate/SysOpsアドミニストレータアソシエイト](https://aws.amazon.com/jp/certification/certified-sysops-admin-associate/) (2024/1)  
+TOEIC Listening & Reading: 830  
+[Image Processing Engineer Certification, Expert Level/画像処理エンジニア検定 エキスパート](https://www.cgarts.or.jp/v1/kentei/about/img_engineer/second.html)  
+[CG Engineer Certification, Expert Level/CGエンジニア検定　エキスパート](https://www.cgarts.or.jp/v1/kentei/about/cg_engineer/index.html)  
+[NPO Practical Management Program — Completed/NPO実践マネジメント講座 修了(2012)](https://center.public.or.jp/products/lecture02.html)  
+[Praise Master Certification Level 3/ほめ達！検定 3級(2025/9)](https://www.hometatsu.jp/test/index.html)    
 [The UC San Diego Rady School of Management’s MicroMBA(2025/7-8)](https://www.credly.com/badges/c0bceaef-c3a1-4c8e-93ab-6a7935265201)  
 
 

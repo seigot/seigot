@@ -34,6 +34,7 @@ TOEIC Listening & Reading: 830
 [MakerFaire School, Coyote Grange2026 Exibitor/出展](https://makered.substack.com/p/connecting-students-and-the-community)  
 [MakerFaire LosAngels2026 Exibitor/出展](https://losangeles.makerfaire.com/maker/entry/3929/)  
 [OpanSauce2025 Exibitor/出展](https://opensauce.com)  
+[OpanSauce2026 Exibitor/出展](https://opensauce.com)  
 [NT Kyoto2024 Exibitor/出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  
 [M5stack Japan Tour 2024 Spring Osaka Exibitor/出展](https://m5stack2024springosaka.peatix.com/?lang=ja)  
 

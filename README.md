@@ -33,6 +33,7 @@ TOEIC Listening & Reading: 830
 [MakerFaire BayArea2025 Exhibitor / 出展](https://bayarea.makerfaire.com/#/booth/155002000001547775?lang=en)  
 [MakerFaire School, Coyote Grange2026 Exhibitor / 出展](https://makered.substack.com/p/connecting-students-and-the-community)  
 [MakerFaire Los Angels2026 Exhibitor / 出展](https://losangeles.makerfaire.com/maker/entry/3929/)  
+[MakerFaire BayArea2026 Exhibitor / 出展](https://makerfaire.com/maker/entry/78514/)  
 [OpenSauce2025 Exhibitor / 出展](https://opensauce.com)  
 [OpenSauce2026 Exhibitor / 出展](https://opensauce.com)  
 [NT Kyoto2024 Exhibitor / 出展](https://wiki.nicotech.jp/nico_tech/index.php?NT京都2024)  

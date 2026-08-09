@@ -138,6 +138,7 @@ Timsmith Sponsor
 LeetCode Total solved --> 500+ solved, 0.5% (easy:100+, medium:300+, hard:100+)  
 NeetCode Total solved --> 151+ solved, 0.8% (medium:50+, hard:149+)  
 [Problem Solving(Intermediate)](https://www.hackerrank.com/certificates/061cf7978f48)  
+[SOLVING PROBLEMS 100+ DAYS IN 2026, Congratulations 100 Days Badge 2026!](https://leetcode.com/medal/?showImg=1)  
 
 <!--
 **seigot/seigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

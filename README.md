@@ -12,7 +12,7 @@ TOEIC Listening & Reading: 830
 [NPO Practical Management Program — Completed / NPO実践マネジメント講座 修了(2012)](https://center.public.or.jp/products/lecture02.html)  
 [Praise Master Certification Level 3 / ほめ達！検定 3級(2025/9)](https://www.hometatsu.jp/test/index.html)    
 [The UC San Diego Rady School of Management’s MicroMBA(2025/7-8)](https://www.credly.com/badges/c0bceaef-c3a1-4c8e-93ab-6a7935265201)  
-
+[The UC San Diego Rady School of Management’s MicroMBA(2026/7-8)](https://www.credly.com/badges/c0bceaef-c3a1-4c8e-93ab-6a7935265201)  
 
 ### Competitions, etc / 競技会、他
 
@@ -127,6 +127,7 @@ Timsmith Sponsor
 [edx, CS1301xIII: Computing in Python III: Data Structures](https://courses.edx.org/certificates/b079cc1f79e74d7c8c2a2993780237f4)  
 [edx, CS1301xIV: Computing in Python IV: Objects & Algorithms](https://courses.edx.org/certificates/929ba86e75784b2db881daeb8aa6098c)  
 [edx, CS1301xI: Computing in Python I: Fundamentals and Procedural Programming](https://courses.edx.org/certificates/f3b722fc10444c9e8d0e0fc70929ebd4)  
+[UC Berkeley Extension, COMPSCI X461-005 Artificial Intelligence Foundations, Grade:A, Jun/2026 to 13/Aug/2026](https://extension.berkeley.edu/portal/student/studentAcademicHistory.do?org.apache.struts.taglib.html.TOKEN=db569df29bfa0aaf8b075c4f47cc3264&method=completedCourseReport&targetWin=_blank&sectionList=&currentTab=linkAacademicHistoryCompleted&index=&csiIndex=&selectedCurrentCourseSection=101983635&selectedCompletedCourseSection=99497946&currentCourseReport=StudentConfirmationOfAcceptanceRegistration&completedCourseReport=StudentAchievementReport)  
 [(Stanford School of Innovation)Certificate of Participation of Stanfords Social Innovation Review, Connecting the Dots Between Strategy and Design](https://ssir.org/webinars/entry/strategy-and-design)  
 [(Stanford Engineering Center for Global & Online Education)Certificate of Achievement in AI-Driven Leadership: Strategies for the Future verified by the Stanford Engineering Center for Global & Online Education](https://digitalcredential.stanford.edu/check/A470A7704FDB9DCAAA21B805EE1ACF5911319732F09570F1CCABD32604B07764dTRpMHdVOWJoanl3YjJTdXE0ZXdOWUJkc0FMTFd0L3FITDNFQ1ZTWGFPT09nQ1JR)  
 [(Stanford Engineering Center for Global & Online Education)XGAL0001 - UI/UX Design for AI Products](https://digitalcredential.stanford.edu/check/F403D10C8A1FBE720EC169BA9DE8FBB4BFF9DF73C3D36AFDC304B0D6D19C4CEBU1E4cVVLR3F0dWVCU1JCcktqak9rM3pmMVF2RGtCZUt6MXMwc01lU3UvTHhyQXpy)  

@@ -12,7 +12,7 @@ TOEIC Listening & Reading: 830
 [NPO Practical Management Program — Completed / NPO実践マネジメント講座 修了(2012)](https://center.public.or.jp/products/lecture02.html)  
 [Praise Master Certification Level 3 / ほめ達！検定 3級(2025/9)](https://www.hometatsu.jp/test/index.html)    
 [The UC San Diego Rady School of Management’s MicroMBA(2025/7-8)](https://www.credly.com/badges/c0bceaef-c3a1-4c8e-93ab-6a7935265201)  
-[The UC San Diego Rady School of Management’s MicroMBA(2026/7-8)](https://www.credly.com/badges/c0bceaef-c3a1-4c8e-93ab-6a7935265201)  
+[The UC San Diego Rady School of Management’s MicroMBA(2026/7-8)](https://www.credly.com/badges/f5c3ff1a-46c4-45f8-8d32-96b8a1f3da63)  
 
 ### Competitions, etc / 競技会、他
 

@@ -113,6 +113,7 @@ Timsmith Sponsor
 [Coursera, University of Colorado Boulder/Successful Presentation](https://www.coursera.org/account/accomplishments/verify/IU6BVYLXAAOM)  
 [Coursera, IBM/Present with Purpose: Create/Deliver Effective Presentations](https://www.coursera.org/account/accomplishments/verify/CHAA8HURAJJ9)  
 [Coursera, Emory University/Consulting Presentations and Storytelling](https://www.coursera.org/account/accomplishments/verify/ROBXL3C570VZ)  
+[Coursera, Improving Communication Skills](https://coursera.org/share/f30bb4b6a3327adbac7a8a54d17bb36f)  
 [edx, Data Structures and Algorithms (GTx)](https://credentials.edx.org/credentials/482d7a0e50594f29853e6a1dde4c5984/)  
 [edx, Introduction to Object-Oriented Programming with Java (GTx)](https://credentials.edx.org/credentials/0dd4641af010494fa08ce7fd9f217cfe/)  
 [edx, Introduction to Python Programming (GTx)](https://credentials.edx.org/credentials/92a848f157974fcb9dbc4b42b501acdc/)

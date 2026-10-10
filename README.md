@@ -60,6 +60,8 @@ Timsmith Sponsor
 [2023-apac.pycon.jp-Volunteer](https://2023-apac.pycon.jp/staff)  
 [2023-OpenSourceConferenceKyoto-exhibiter-Volunteer](https://event.ospn.jp/osc2023-kyoto/exhibit)  
 [2024-pybay.org-Volunteer](https://pybay.org)  
+[2025-pybay.org-Volunteer](https://pybay.org)  
+[2026-pybay.org-Volunteer](https://pybay.org)  
 [M5stack Japan Tour 2023 Spring Osaka Staff-Volunteer](https://m5stack2023osaka.peatix.com/?lang=ja)  
 [M5stack Japan Tour 2024 Spring Osaka Staff-Volunteer](https://m5stack2024springosaka.peatix.com/?lang=ja)  
 [Tsukuroka!3 / つくろか！３ 2024/10/26-27@Osaka-Co-Corganizer/Volunteer](https://tsukuroka3.notion.site/3-WEB-26e2a0c5174641bc8382d63a6dd70ab0)  
